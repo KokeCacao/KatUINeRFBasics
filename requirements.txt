@@ -1,0 +1,4 @@
+# kornia is for Zero-1-to-3 only
+kornia==0.6
+rembg
+kokikit @ git+https://github.com/KokeCacao/kokikit/
